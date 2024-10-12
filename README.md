@@ -7,5 +7,6 @@ The orientation reference has been parameterized through **quaternions** and the
 
 # Simulation
 
-
-
+<p align="left" width="100%">
+    <img width="50%" src="https://github.com/user-attachments/assets/08ab6d70-bb76-48b0-aa9c-511f097bdba9">
+</p>
